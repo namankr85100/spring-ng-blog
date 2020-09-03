@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 91851
+Build-Jdk: 13.0.1
+Implementation-Title: spring-ng-blog
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.programming.techie
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-ng-blog
+Created-By: Maven Integration for Eclipse
+
